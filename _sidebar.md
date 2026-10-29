@@ -4,12 +4,6 @@
 - [Avaliação na disciplina](docs/avaliacao.md)
 - [GitHub Pages no projeto da disciplina](docs/github-pages.md)
 - Minhas entradas
-   - [Diario de bordo](blog/diario-bordo1.md)
-
-<!--
-Toda vez que você criar uma entrada nova em blog/ (5x no semestre, uma por
-fase), adicione uma linha aqui embaixo do item "Minhas entradas", apontando
-para o novo arquivo. Ex.:
-
-  - [Formação de equipe](blog/2027-03-10-formacao-de-equipe.md)
--->
+  - [Diario de bordo 1](blog/diario-bordo1.md)
+  - [Diario de bordo 2](blog/diario-bordo2.md)
+  - [Diario de bordo 3](blog/diario-bordo3.md)
